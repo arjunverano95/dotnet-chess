@@ -1,4 +1,4 @@
-# dotnet_chess TODO
+# dotnet-chess TODO
 
 * Threat analyzer - 
   - after move, update valid king move  of current turn;
